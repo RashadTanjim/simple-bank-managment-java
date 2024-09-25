@@ -39,7 +39,11 @@ The entities and relationships appear to be structured like this:
    TransactionInterface: Defines operations for transactions.
    AccountInterface: Defines operations related to account activities.
 
-Project Setup in Java
+### Class Diagram
+
+<img src="/docs/image.png" width="1600" height="300" alt="Class Diagram"/>
+
+### Project Setup in Java
 
     Define Interfaces
     The three interfaces (BankInterface, TransactionInterface, AccountInterface) will define the contract for the core operations.
