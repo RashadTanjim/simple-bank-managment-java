@@ -1,3 +1,5 @@
+package com.example;
+
 public class Account implements AccountInterface {
 
     private AccountHolder accountHolder;

@@ -1,3 +1,5 @@
+package com.example;
+
 public interface TransactionInterface {
 
     double getBalance();

@@ -1,3 +1,5 @@
+package com.example;
+
 public class Company extends AccountHolder{
     private final String companyName;
 

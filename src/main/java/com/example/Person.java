@@ -1,3 +1,5 @@
+package com.example;
+
 public class Person extends AccountHolder {
     private final String firstName;
     private final String lastName;

@@ -1,3 +1,5 @@
+package com.example;
+
 public class Transaction implements TransactionInterface {
 
     private final Long accountNumber;

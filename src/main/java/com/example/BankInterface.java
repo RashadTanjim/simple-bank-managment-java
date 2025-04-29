@@ -1,3 +1,5 @@
+package com.example;
+
 public interface BankInterface {
 
     Long openCommercialAccount(Company company, int pin, double startingDeposit);
